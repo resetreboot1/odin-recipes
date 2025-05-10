@@ -1,0 +1,29 @@
+body {
+  font-family:"Times New Roman",serif;
+  background-color:;
+}
+.header {
+  border:5px solid black;
+  padding:5px;
+  width:380px;
+  height:auto;
+  background-color:hsl(180,70%,70%);
+  text-align:center;
+}
+ul {
+  width:124px;
+  height:auto;
+  padding:30px;
+  border:10px solid hsl(220,70%,70%);
+  display:block;
+  margin:0 auto ;
+}
+#lm {
+  width:400px;
+  background-color:grey;
+}
+
+.high{
+  background-color:hsl;
+  color:;
+}
