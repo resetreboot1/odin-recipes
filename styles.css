@@ -10,20 +10,55 @@ body {
   background-color:hsl(180,70%,70%);
   text-align:center;
 }
-ul {
+#wider {
   width:124px;
   height:auto;
   padding:30px;
   border:10px solid hsl(220,70%,70%);
-  display:block;
   margin:0 auto ;
+  box-sizing;
 }
-#lm {
+.lm,
+.le {
   width:400px;
   background-color:grey;
 }
+div.le{
+  width:380px;
+}
 
-.high{
-  background-color:hsl;
+.links {
+  background-color:;
   color:;
+}
+img {
+  width:380px;
+  height:auto;
+}
+.headersm {
+  width:380px;
+  box-sizing:border-box;
+  margin-bottom:-15.5px;
+  border:5px solid hsl(220,70%,70%);
+  color:hsl(220,100%,20%);
+}
+p,
+ul,
+ol {
+  padding:20px;
+  border:10px solid hsl(220,70%,70%);
+  width:320px;
+  color:hsl(220,100%,80%);
+  font-weight:700;
+}
+
+ol {
+  padding-left:30px;
+  width:310px;
+}
+
+button {
+  background-color:hsl(180 70% 70%);
+  height:80px;
+  width:auto;
 }
